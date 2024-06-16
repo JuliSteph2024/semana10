@@ -1,0 +1,25 @@
+#cabecera1{
+    background: darkgrey;
+    border-style: solid;
+    border-color: orangered;
+    border-width: 2px;
+    margin: 30px;
+}
+#cabecera2{
+    background-color: darkgrey;
+    border-top: 2px solid orangered;
+    border-right: 2px solid orangered;
+    border-left: 2px solid orangered;
+    border-bottom: 2px solid orangered;
+    margin: 30px;
+}
+#cabecera3{
+    background: darkgrey;
+    border: 2px solid orangered;
+    margin: 30px;
+}
+h1{
+    color: blue;
+    text-align: center;
+    font-size:40px;
+}

@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+.p1{
+    background-color: violet;
+    text-align: justify;
+    /*margin: 30px;*/
+    margin-top: 30px;
+    margin-bottom: 35px;
+    margin-left: 10px;
+    margin-right: 25px;
+}
+.p2{
+    background-color: greenyellow;
+    text-align: justify;                
+    /*margin: 10px 25px 30px 20px;*/
+    /*margin: top left/right bottom
+    margin: 10px 25px 20px;*/
+    /*margin: top/bottom left/right;*/
+    margin: 10px 25px;
+}
